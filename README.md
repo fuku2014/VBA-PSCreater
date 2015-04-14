@@ -6,7 +6,7 @@ double click 「Install.vbs」
 ```
 Open Excel and Check Option
 
-![excel_option](./excel.png)
+![excel_option](./public/image/excel.png)
 
 ## Requirement
 
